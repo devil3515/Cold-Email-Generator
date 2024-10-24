@@ -3,6 +3,10 @@
 
 Cold Email Generator is a powerful tool designed to automate the process of generating personalized cold emails based on job postings. It uses natural language processing and a machine learning-based language model to extract job descriptions from a given URL, align them with your portfolio, and generate well-structured cold emails to potential clients or employers.
 
+##Example
+![image](https://github.com/user-attachments/assets/3834e129-7d2a-4b0f-afa8-b55edafd12e5)
+
+
 ## Features
 - **Job Posting Scraper**: Scrapes job postings from URLs provided by users.
 - **Skills Matching**: Matches job requirements with your portfolio projects and relevant skills.
