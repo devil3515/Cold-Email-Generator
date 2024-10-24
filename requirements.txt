@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langchain_community
+beautifulsoup4
+chromadb
+uuid
+streamlit
+python-dotenv
