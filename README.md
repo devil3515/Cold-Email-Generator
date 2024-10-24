@@ -66,7 +66,7 @@ Replace `YOUR_GROQ_API_KEY` with your actual API key from Groq.
 ### 5. Get Your Groq Cloud API Key
 To use Groq’s language model in the project, you’ll need to obtain an API key:
 
-- Visit the console.groq.com website.
+- Visit the [Groq Console](https://console.groq.com/) website.
 - Sign up for an account or log in if you already have one.
 - Navigate to your API Dashboard and generate a new API key.
 - Copy the generated API key.
