@@ -63,12 +63,20 @@ groq_api_key=YOUR_GROQ_API_KEY
 
 Replace `YOUR_GROQ_API_KEY` with your actual API key from Groq.
 
-### 5. Prepare Portfolio Data
+### 5. Get Your Groq Cloud API Key
+To use Groq’s language model in the project, you’ll need to obtain an API key:
+
+- Visit the console.groq.com website.
+- Sign up for an account or log in if you already have one.
+- Navigate to your API Dashboard and generate a new API key.
+- Copy the generated API key.
+
+### 6. Prepare Portfolio Data
 Update the `resource/my_portfolio.csv` file with your tech stack and portfolio links. It should contain two columns:
 - **Techstack**: Skills you have experience in.
 - **Links**: Portfolio or project links showcasing your expertise in the respective tech stack.
 
-### 6. Run the Application
+### 7. Run the Application
 Once everything is set up, you can run the app using Streamlit:
 
 ```bash
