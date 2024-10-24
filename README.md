@@ -54,7 +54,18 @@ All required libraries are listed in the `requirements.txt` file. Install them u
 pip install -r requirements.txt
 ```
 
-### 4. Set Up Environment Variables
+
+### 4. Get Your Groq Cloud API Key
+To use Groq’s language model in the project, you’ll need to obtain an API key:
+
+- Visit the [Groq Console](https://console.groq.com/) website.
+- Sign up for an account or log in if you already have one.
+- Navigate to your API Dashboard and generate a new API key.
+- Copy the generated API key.
+
+
+
+### 5. Set Up Environment Variables
 Create a `.env` file in the root of your project and add the following:
 
 ```
@@ -63,13 +74,7 @@ groq_api_key=YOUR_GROQ_API_KEY
 
 Replace `YOUR_GROQ_API_KEY` with your actual API key from Groq.
 
-### 5. Get Your Groq Cloud API Key
-To use Groq’s language model in the project, you’ll need to obtain an API key:
 
-- Visit the [Groq Console](https://console.groq.com/) website.
-- Sign up for an account or log in if you already have one.
-- Navigate to your API Dashboard and generate a new API key.
-- Copy the generated API key.
 
 ### 6. Prepare Portfolio Data
 Update the `resource/my_portfolio.csv` file with your tech stack and portfolio links. It should contain two columns:
